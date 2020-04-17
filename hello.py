@@ -1,1 +1,0 @@
-print("\\n is the newline character in Python")
